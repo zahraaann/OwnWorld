@@ -12,13 +12,13 @@
       {  
          "type":"A",
          "host":"@zahraaann",
-         "pointsTo":"185.199.109.153",
+         "pointsTo":"103.169.142.0",
          "ttl":300
       },
       {  
          "type":"A",
          "host":"www.zahraaann",
-         "pointsTo":"185.199.109.153",
+         "pointsTo":"103.169.142.0,
          "ttl":300
       },
       {
