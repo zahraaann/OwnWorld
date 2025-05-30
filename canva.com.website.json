@@ -11,14 +11,14 @@
    "records":[  
       {  
          "type":"A",
-         "host":"@zahraaann",
-         "pointsTo":"103.169.142.0",
+         "host":"zahraaann",
+         "pointsTo":"185.199.109.153",
          "ttl":300
       },
       {  
          "type":"A",
          "host":"www.zahraaann",
-         "pointsTo":"103.169.142.0",
+         "pointsTo":"185.199.109.153",
          "ttl":300
       },
       {
