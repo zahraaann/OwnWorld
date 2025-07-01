@@ -1,0 +1,31 @@
+{  
+   "providerId":"canva.com",
+   "providerName":"Canva",
+   "serviceId":"website",
+   "serviceName":"Canva Websites",
+   "syncPubKeyDomain":"domainconnect.canva.com",
+   "version": 2,
+   "logoUrl": "https://static.canva.com/static/images/canva_logo_100x100@2x.png",
+   "description":"Enables a domain to work with Canva",
+   "variableDescription":"verify is the verification value for the site",
+   "records":[  
+      {  
+         "type":"A",
+         "host":"@zahraaann",
+         "pointsTo":"103.169.142.0",
+         "ttl":300
+      },
+      {  
+         "type":"A",
+         "host":"www.zahraaann",
+         "pointsTo":"103.169.142.0",
+         "ttl":300
+      },
+      {
+         "type":"TXT",
+         "host": "zahraaann",
+         "data": "canva-domain-verify=7eccf9dd-8c1e-4929-ac57-21a99a0af7cc",
+         "ttl":300
+      }
+   ]
+}
