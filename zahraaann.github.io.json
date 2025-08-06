@@ -11,20 +11,20 @@
    "records":[  
       {  
          "type":"A",
-         "host":"@",
+         "host":"@zahraaann",
          "pointsTo":"103.169.142.0",
          "ttl":300
       },
       {  
          "type":"A",
-         "host":"www",
+         "host":"www.zahraaann",
          "pointsTo":"103.169.142.0",
          "ttl":300
       },
       {
          "type":"TXT",
          "host": "_canva-domain-verify",
-         "data": "%verify%",
+         "data": "%verify=dccb9f87-26ce-4c58-9cf6-5585fbf5924e%",
          "ttl":300
       }
    ]
